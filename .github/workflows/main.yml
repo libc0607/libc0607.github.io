@@ -43,6 +43,7 @@ jobs:
         GITHUB_REPO: github.com/libc0607/libc0607.github.io
       run: |
         cd ./public && git init && git add .
+        git branch -m main
         git config user.name "bc_bot"
         git config user.email "bc_bot@pm.me"
         git add .
