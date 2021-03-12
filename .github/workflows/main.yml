@@ -36,6 +36,7 @@ jobs:
     - name: Generate files
       run: |
         git clone https://github.com/theme-next/hexo-theme-next -b v7.8.0 --depth=1 themes/next
+        sed -i 's/scheme: Muse/scheme: Gemini/g' themes/next/_config.yml
         hexo clean
         hexo generate
 
