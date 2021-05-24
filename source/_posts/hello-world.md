@@ -5,10 +5,13 @@ title: Hello World
 ## 现在的博客
 Github 这边咕了，在 WordPress 那边开了一个，以后到那边瞎写  
 [博客传送门](https://libc0607.wordpress.com/)  希望能不咕    
+最近在填关于 Project Icestorm 分析的坑，还有一个磁性传感器的坑也在填了，欢迎围观  
+
 [OSHWHub 传送门](https://oshwhub.com/libc0607)  
 [Github 传送门](https://github.com/libc0607)  
 
-以及一些散落在论坛或是其他什么地方的，适合变成博客文章凑数的（？）早期挖坑记录，只想起来这些：  
+## 其他挖坑记录  
+一些散落在论坛或是其他什么地方的，适合变成博客文章凑数的（？）早期挖坑记录，只想起来这些：  
 
 [关于联盛德W600 Wi-Fi部分的一点探索：自由通信接口、2.2G~2.8G中心频率、5/10MHz传输带宽 - WhyCan Forum(哇酷开发者社区)](https://whycan.com/t_5582.html)   
 [EZ-WifiBroadcast 在 OpenWrt 上的移植与修改 另一种数字图传思路 - moz8](https://www.moz8.com/thread-177797-1-1.html)    
